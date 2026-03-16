@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Build/Logs/Coverage
+dist/
+build/
+coverage/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE/System
+.vscode/
+.idea/
+.DS_Store
